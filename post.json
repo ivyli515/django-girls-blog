@@ -1,0 +1,57 @@
+[
+  {
+    "model": "blog.post",
+    "pk": 1,
+    "fields": {
+      "author": 1,
+      "title": "Post 1",
+      "text": "This is Post 1.",
+      "created_date": "2024-04-20T01:13:32Z",
+      "published_date": null
+    }
+  },
+  {
+    "model": "blog.post",
+    "pk": 2,
+    "fields": {
+      "author": 1,
+      "title": "Post 2",
+      "text": "This is Post 2.",
+      "created_date": "2024-04-20T01:15:11Z",
+      "published_date": null
+    }
+  },
+  {
+    "model": "blog.post",
+    "pk": 3,
+    "fields": {
+      "author": 1,
+      "title": "Post 3",
+      "text": "This is Post 3.",
+      "created_date": "2024-04-20T01:15:37Z",
+      "published_date": null
+    }
+  },
+  {
+    "model": "blog.post",
+    "pk": 4,
+    "fields": {
+      "author": 1,
+      "title": "Post 4",
+      "text": "This is Post 4.",
+      "created_date": "2024-04-20T01:16:24Z",
+      "published_date": null
+    }
+  },
+  {
+    "model": "blog.post",
+    "pk": 5,
+    "fields": {
+      "author": 1,
+      "title": "Post 5",
+      "text": "This is Post 5.",
+      "created_date": "2024-04-20T01:18:07Z",
+      "published_date": null
+    }
+  }
+]
